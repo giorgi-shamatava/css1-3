@@ -109,4 +109,55 @@ li {
     margin-top: 8px;
 }
 
+#t1 {
+    width: 668px;
+    color: #C27512;
+    font-size: 16px;
+    margin-left: 102px;
+}
+
+
+#Reactangle1 {
+    position: relative;
+    left: 70px;
+    bottom: 50px;
+}
+
+#t3 {
+    color: #C27512;
+    width: 668px;
+    font-size: 16px;
+    position: relative;
+    bottom: 40px;
+    left: 102px;
+}
+
+#Reactangle2 {
+    position: relative;
+    left: 50px;
+    top: 7px;
+}
+
+#t4 {
+    color: #C27512;
+    width: 668px;
+    font-size: 16px;
+    position: relative;
+    left: 102px;
+    bottom: 78px;
+}
+
+#Reactangle3 {
+    position: relative;
+    left: 70px;
+    bottom: 25px;
+}
+
+#img3 {
+    width: 696px;
+    align-self: stretch;
+    position: relative;
+    left: 70px;
+    bottom: 55px;
+}
 
